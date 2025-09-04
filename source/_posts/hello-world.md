@@ -38,3 +38,8 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+<video controls width="100%">
+    <source src="/videos/my-video.mp4" type="video/mp4">
+    您的浏览器不支持 video 标签。
+</video>
